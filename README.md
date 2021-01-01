@@ -8,6 +8,8 @@ from [WesBos challenge](https://javascript30.com/).
 
 **End Date:** ???
 
+___
+
 No | Date        | Description            | Status |
 --|-----------|------------------------|---|
 01 | 2020.01.01 | JavaScript Drum Kit | 🔴 |
