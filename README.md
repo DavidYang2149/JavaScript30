@@ -1,6 +1,6 @@
 # JavaScript30
 
-from [WesBos challenge](https://javascript30.com/). 
+from [WesBos challenge](https://javascript30.com). 
 
 30 Day Vanilla JavaScript Coding Challenge 😃.
 
@@ -12,7 +12,7 @@ ___
 
 No | Date        | Description            | Status |
 --|-----------|------------------------|---|
-01 | 2020.01.01 | JavaScript Drum Kit | 🔴 |
+01 | 2020.01.02 | JavaScript Drum Kit | 🟢 |
 
 ___
 
