@@ -13,6 +13,7 @@ ___
 No | Date        | Description            | Status |
 --|-----------|------------------------|---|
 01 | 2020.01.02 | JavaScript Drum Kit | 🟢 |
+02 | 2020.01.03 | JS and CSS Clock | 🔴 |
 
 ___
 
