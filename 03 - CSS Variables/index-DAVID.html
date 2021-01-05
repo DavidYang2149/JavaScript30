@@ -43,7 +43,6 @@
         --blur: 10px;
       }
 
-
       img {
         background: var(--base);
         padding: var(--spacing);
@@ -85,7 +84,6 @@
         document.documentElement.style.setProperty('--blur', blur.value + e.target.attributes['data-sizing'].value);
       });
       base.addEventListener('change', (e) => {
-        console.log(e.target)
         document.documentElement.style.setProperty('--base', base.value);
       });
     </script>
