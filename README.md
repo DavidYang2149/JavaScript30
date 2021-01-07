@@ -16,7 +16,7 @@ No | Date        | Description            | Status |
 02 | 2020.01.03 | JS and CSS Clock | 🟢 |
 03 | 2020.01.04 | CSS Variables | 🟢 |
 04 | 2020.01.06 | Array Cardio Day 1 | 🟢 |
-05 | 2020.01.07 | Flex Panel Gallery | 🔴 |
+05 | 2020.01.07 | Flex Panel Gallery | 🟢 |
 
 ___
 
