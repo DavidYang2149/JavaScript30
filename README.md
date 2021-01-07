@@ -15,7 +15,8 @@ No | Date        | Description            | Status |
 01 | 2020.01.02 | JavaScript Drum Kit | 🟢 |
 02 | 2020.01.03 | JS and CSS Clock | 🟢 |
 03 | 2020.01.04 | CSS Variables | 🟢 |
-04 | 2020.01.06 | Array Cardio Day 1 | 🔴 |
+04 | 2020.01.06 | Array Cardio Day 1 | 🟢 |
+05 | 2020.01.07 | Flex Panel Gallery | 🔴 |
 
 ___
 
