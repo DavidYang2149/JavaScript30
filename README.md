@@ -17,6 +17,7 @@ No | Date        | Description            | Status |
 03 | 2020.01.04 | CSS Variables | 🟢 |
 04 | 2020.01.06 | Array Cardio Day 1 | 🟢 |
 05 | 2020.01.07 | Flex Panel Gallery | 🟢 |
+06 | 2020.01.08 | Type Ahead | 🔴 |
 
 ___
 
