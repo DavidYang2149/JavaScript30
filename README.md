@@ -18,6 +18,7 @@ No | Date        | Description            | Status |
 04 | 2020.01.06 | Array Cardio Day 1 | 🟢 |
 05 | 2020.01.07 | Flex Panel Gallery | 🟢 |
 06 | 2020.01.12 | Type Ahead | 🟢 |
+07 | 2020.01.13 | Array Cardio Day 2 | 🔴 |
 
 ___
 
