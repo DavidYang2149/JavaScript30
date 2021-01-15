@@ -19,6 +19,7 @@ No | Date        | Description            | Status |
 05 | 2020.01.07 | Flex Panel Gallery | 🟢 |
 06 | 2020.01.12 | Type Ahead | 🟢 |
 07 | 2020.01.14 | Array Cardio Day 2 | 🟢 |
+08 | 2020.01.15 | Fun with HTML5 Canvas | 🔴 |
 
 ___
 
