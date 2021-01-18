@@ -20,7 +20,7 @@ No | Date        | Description            | Status |
 06 | 2020.01.12 | Type Ahead | 🟢 |
 07 | 2020.01.14 | Array Cardio Day 2 | 🟢 |
 08 | 2020.01.15 | Fun with HTML5 Canvas | 🟢 |
-09 | 2020.01.18 | Dev Tools Domination | 🔴 |
+09 | 2020.01.18 | Dev Tools Domination | 🟢 |
 
 ___
 
