@@ -21,6 +21,7 @@ No | Date        | Description            | Status |
 07 | 2020.01.14 | Array Cardio Day 2 | 🟢 |
 08 | 2020.01.15 | Fun with HTML5 Canvas | 🟢 |
 09 | 2020.01.18 | Dev Tools Domination | 🟢 |
+10 | 2020.01.19 | Hold Shift and Check Checkboxes | 🔴 |
 
 ___
 
