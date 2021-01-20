@@ -22,7 +22,7 @@ No | Date        | Description            | Status |
 08 | 2020.01.15 | Fun with HTML5 Canvas | 🟢 |
 09 | 2020.01.18 | Dev Tools Domination | 🟢 |
 10 | 2020.01.19 | Hold Shift and Check Checkboxes | 🟢 |
-11 | 2020.01.20 | Custom Video Player | 🔴 |
+11 | 2020.01.20 | Custom Video Player | 🟢 |
 
 ___
 
