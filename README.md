@@ -23,6 +23,7 @@ No | Date        | Description            | Status |
 09 | 2020.01.18 | Dev Tools Domination | 🟢 |
 10 | 2020.01.19 | Hold Shift and Check Checkboxes | 🟢 |
 11 | 2020.01.20 | Custom Video Player | 🟢 |
+12 | 2020.01.21 | Key Sequence Detection | 🔴 |
 
 ___
 
