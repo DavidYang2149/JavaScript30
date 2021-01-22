@@ -24,7 +24,7 @@ No | Date        | Description            | Status |
 10 | 2020.01.19 | Hold Shift and Check Checkboxes | 🟢 |
 11 | 2020.01.20 | Custom Video Player | 🟢 |
 12 | 2020.01.21 | Key Sequence Detection | 🟢 |
-13 | 2020.01.22 | Slide in on Scroll | 🔴 |
+13 | 2020.01.22 | Slide in on Scroll | 🟢 |
 
 ___
 
