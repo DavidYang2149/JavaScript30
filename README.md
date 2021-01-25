@@ -25,6 +25,7 @@ No | Date        | Description            | Status |
 11 | 2020.01.20 | Custom Video Player | 🟢 |
 12 | 2020.01.21 | Key Sequence Detection | 🟢 |
 13 | 2020.01.22 | Slide in on Scroll | 🟢 |
+14 | 2020.01.25 | JavaScript References VS Copying | 🟢 |
 
 ___
 

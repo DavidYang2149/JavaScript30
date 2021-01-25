@@ -13,26 +13,46 @@
     const players = ['Wes', 'Sarah', 'Ryan', 'Poppy'];
 
     // and we want to make a copy of it.
+    const copy = players;
 
     // You might think we can just do something like this:
+    console.log(copy === players);
 
     // however what happens when we update that array?
-
+    players.push('David');
+    
     // now here is the problem!
-
     // oh no - we have edited the original array too!
+    console.log(copy, players)
 
     // Why? It's because that is an array reference, not an array copy. They both point to the same array!
 
     // So, how do we fix this? We take a copy instead!
+    const copy2 = players.slice();
+    players.push('Harry');
+
+    console.log(copy2, players);
 
     // one way
 
     // or create a new array and concat the old one in
+    const copy3 = [].concat(players);
+    players.push('Joe');
+
+    console.log(copy3, players);
 
     // or use the new ES6 Spread
+    const copy4 = [...players];
+    players.push('Marry');
+
+    console.log(copy4, players);
 
     // now when we update it, the original one isn't changed
+    const copy5 = Array.from(players);
+    players.push('Tom');
+
+    console.log(copy5, players);
+
 
     // The same thing goes for objects, let's say we have a person object
 
@@ -43,13 +63,31 @@
     };
 
     // and think we make a copy:
-
+    
     // how do we take a copy instead?
+    const objectCopy = Object.assign({}, person, { number: 99, age: 12 });
+    
+    console.log(objectCopy, person);
 
     // We will hopefully soon see the object ...spread
+    const objectCopy2 = {...person};
+    person.age = 33;
+    
+    console.log(objectCopy2, person);
 
     // Things to note - this is only 1 level deep - both for Arrays and Objects. lodash has a cloneDeep method, but you should think twice before using it.
+    const wes = {
+      name: 'Wes',
+      age: 100,
+      social: {
+        twitter: '@wesbos',
+        facebook: 'wesbos.developer'
+      }
+    };
 
+    const dev = Object.assign({}, wes);
+    const dev2 = JSON.parse(JSON.stringify(wes));
+    console.log('wes ', wes, ' ', 'dev', dev, ' ', 'dev2', dev2);
   </script>
 
 </body>
