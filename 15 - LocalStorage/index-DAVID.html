@@ -28,11 +28,59 @@
 <script>
   const addItems = document.querySelector('.add-items');
   const itemsList = document.querySelector('.plates');
-  const items = [];
+  const items = JSON.parse(localStorage.getItem('15items')) || [];
+  
+  const text = document.querySelector('input[name=item]');
 
+  const itemDraws = (target) => (values) => {
+    target.innerHTML = values.map((item, i) => {
+      return `
+      <li>
+        <input type="checkbox" data-index=${i} id="item${i}" ${item.done ? 'checked' : ''} />
+        <label for="item${i}">${item.content}</label>
+      </li>
+      `;
+    }).join('');
+  }
+
+  const menus = itemDraws(itemsList);
+
+  const handleAddItem = (event) => (target) => {
+    event.preventDefault();
+
+    if (target.value.trim().length === 0) return false;
+
+    const item = {
+      content: target.value,
+      done: false,
+    };
+    
+    items.push(item);
+    localStorage.setItem('15items', JSON.stringify(items));
+    
+    menus(items);
+
+    target.value = '';
+  };
+
+  const handleToggle = (event) => {
+    if (!event.target.matches('input')) return false;
+
+    const el = event.target;
+    const index = el.dataset.index;
+
+    items[index].done = !items[index].done;
+    
+    localStorage.setItem('15items', JSON.stringify(items));
+
+    menus(items);
+  }
+
+  addItems.addEventListener('click', (event) => handleAddItem(event)(text));
+  itemsList.addEventListener('click', (event) => handleToggle(event));
+
+  menus(items);
 </script>
-
-
 </body>
 </html>
 

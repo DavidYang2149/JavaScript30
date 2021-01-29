@@ -26,7 +26,7 @@ No | Date        | Description            | Status |
 12 | 2020.01.21 | Key Sequence Detection | 🟢 |
 13 | 2020.01.22 | Slide in on Scroll | 🟢 |
 14 | 2020.01.25 | JavaScript References VS Copying | 🟢 |
-15 | 2020.01.26 | LocalStorage | 🔴 |
+15 | 2020.01.26 | LocalStorage | 🟢 |
 
 ___
 
