@@ -27,6 +27,7 @@ No | Date        | Description            | Status |
 13 | 2020.01.22 | Slide in on Scroll | 🟢 |
 14 | 2020.01.25 | JavaScript References VS Copying | 🟢 |
 15 | 2020.01.26 | LocalStorage | 🟢 |
+16 | 2020.01.29 | Mouse Move Shadow | 🔴 |
 
 ___
 
