@@ -28,7 +28,7 @@ No | Date        | Description            | Status |
 14 | 2020.01.25 | JavaScript References VS Copying | 🟢 |
 15 | 2020.01.26 | LocalStorage | 🟢 |
 16 | 2020.01.29 | Mouse Move Shadow | 🟢 |
-
+17 | 2020.02.02 | Sort Without Articles | 🔴 |
 ___
 
 | Captions - Status |
