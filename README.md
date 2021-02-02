@@ -29,6 +29,7 @@ No | Date        | Description            | Status |
 15 | 2020.01.26 | LocalStorage | 🟢 |
 16 | 2020.01.29 | Mouse Move Shadow | 🟢 |
 17 | 2020.02.02 | Sort Without Articles | 🟢 |
+18 | 2020.02.03 | Adding Up Times with Reduce | 🔴 |
 ___
 
 | Captions - Status |
