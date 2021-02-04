@@ -30,7 +30,7 @@ No | Date        | Description            | Status |
 16 | 2020.01.29 | Mouse Move Shadow | 🟢 |
 17 | 2020.02.02 | Sort Without Articles | 🟢 |
 18 | 2020.02.03 | Adding Up Times with Reduce | 🟢 |
-19 | 2020.02.04 | Webcam Fun | 🔴 |
+19 | 2020.02.04 | Webcam Fun | 🟢 |
 ___
 
 | Captions - Status |
