@@ -12,7 +12,43 @@
 <script>
   window.SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
 
+  const recognition = new SpeechRecognition();
+  
+  // true면 음절을 연속적으로 인식하나 false면 한 음절만 기록한다.
+  recognition.interimResults = true;
+  
+  // 언어를 선택한다.
+  // recognition.lang = 'en-US';
+  recognition.lang = "ko-KR";
 
+  // true면 음성 인식이 안 끝나고 계속된다.
+  // recognition.continuous = true;
+
+  // maxAlternatives가 크면 이상한 단어도 문장에 적합하게 알아서 수정한다.
+  // recognition.maxAlternatives = 10000;
+  
+  let p = document.createElement('p');
+  const words = document.querySelector('.words');
+  words.appendChild(p);
+
+  recognition.addEventListener('result', e => {
+    const transcript = Array.from(e.results)
+      .map(result => result[0])
+      .map(result => result.transcript)
+      .join('');
+
+      const poopScript = transcript.replace(/poop|poo|shit|dump/gi, '💩');
+      p.textContent = poopScript;
+
+      if (e.results[0].isFinal) {
+        p = document.createElement('p');
+        words.appendChild(p);
+      }
+  });
+
+  recognition.addEventListener('end', recognition.start);
+
+  recognition.start();
 </script>
 
 
