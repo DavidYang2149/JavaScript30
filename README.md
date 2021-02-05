@@ -31,6 +31,7 @@ No | Date        | Description            | Status |
 17 | 2020.02.02 | Sort Without Articles | 🟢 |
 18 | 2020.02.03 | Adding Up Times with Reduce | 🟢 |
 19 | 2020.02.04 | Webcam Fun | 🟢 |
+20 | 2020.02.05 | Speech Detection | 🔴 |
 ___
 
 | Captions - Status |
