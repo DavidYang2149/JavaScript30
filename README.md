@@ -32,6 +32,8 @@ No | Date        | Description            | Status |
 18 | 2020.02.03 | Adding Up Times with Reduce | 🟢 |
 19 | 2020.02.04 | Webcam Fun | 🟢 |
 20 | 2020.02.05 | Speech Detection | 🟢 |
+21 | 2020.02.06 | Geolocation | 🔴  |
+
 ___
 
 | Captions - Status |
