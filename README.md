@@ -34,7 +34,7 @@ No | Date        | Description            | Status |
 20 | 2020.02.05 | Speech Detection | 🟢 |
 21 | 2020.02.06 | Geolocation | 🟢 |
 22 | 2020.02.07 | Follow Along Link Highlighter | 🟢 |
-23 | 2020.02.08 | Speech Synthesis | 🔴 |
+23 | 2020.02.08 | Speech Synthesis | 🟢 |
 ___
 
 | Captions - Status |
