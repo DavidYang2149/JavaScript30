@@ -35,6 +35,8 @@ No | Date        | Description            | Status |
 21 | 2020.02.06 | Geolocation | 🟢 |
 22 | 2020.02.07 | Follow Along Link Highlighter | 🟢 |
 23 | 2020.02.08 | Speech Synthesis | 🟢 |
+24 | 2020.02.09 | Sticky Nav | 🔴 |
+
 ___
 
 | Captions - Status |
