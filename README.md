@@ -36,7 +36,7 @@ No | Date        | Description            | Status |
 22 | 2020.02.07 | Follow Along Link Highlighter | 🟢 |
 23 | 2020.02.08 | Speech Synthesis | 🟢 |
 24 | 2020.02.09 | Sticky Nav | 🟢 |
-25 | 2020.02.10 | Event Capture, Propagation, Bubbling and Once | 🔴 |
+25 | 2020.02.10 | Event Capture, Propagation, Bubbling and Once | 🟢 |
 ___
 
 | Captions - Status |
