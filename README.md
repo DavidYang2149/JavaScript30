@@ -37,7 +37,7 @@ No | Date        | Description            | Status |
 23 | 2020.02.08 | Speech Synthesis | 🟢 |
 24 | 2020.02.09 | Sticky Nav | 🟢 |
 25 | 2020.02.10 | Event Capture, Propagation, Bubbling and Once | 🟢 |
-26 | 2020.02.11 | Stripe Follow Along Nav | 🔴 |
+26 | 2020.02.11 | Stripe Follow Along Nav | 🟢 |
 ___
 
 | Captions - Status |
