@@ -38,6 +38,7 @@ No | Date        | Description            | Status |
 24 | 2020.02.09 | Sticky Nav | 🟢 |
 25 | 2020.02.10 | Event Capture, Propagation, Bubbling and Once | 🟢 |
 26 | 2020.02.11 | Stripe Follow Along Nav | 🟢 |
+27 | 2020.02.12 | Click and Drag | 🔴 |
 ___
 
 | Captions - Status |
