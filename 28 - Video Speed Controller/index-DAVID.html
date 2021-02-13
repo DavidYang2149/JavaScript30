@@ -15,6 +15,23 @@
   </div>
 
 <script>
+  const speed = document.querySelector('.speed');
+  const speedBar = document.querySelector('.speed-bar');
+  const video = document.querySelector('.flex');
+
+  const handleMove = (e) => (target) => (bar) => (video) => {
+    const y = e.pageY - target.offsetTop;
+    const percent = y / target.offsetHeight;
+    const min = 0.4;
+    const max = 4;
+    const height = Math.round(percent * 100) + '%';
+    const playbackRate = percent * (max - min) + min;
+    bar.style.height = height;
+    bar.textContent = playbackRate.toFixed(2) + '×';
+    video.playbackRate = playbackRate;
+  };
+
+  speed.addEventListener('mousemove', (e) => handleMove(e)(speed)(speedBar)(video));
 </script>
 </body>
 </html>

@@ -39,7 +39,7 @@ No | Date        | Description            | Status |
 25 | 2021.02.10 | Event Capture, Propagation, Bubbling and Once | 🟢 |
 26 | 2021.02.11 | Stripe Follow Along Nav | 🟢 |
 27 | 2021.02.12 | Click and Drag | 🟢 |
-28 | 2021.02.13 | Video Speed Controller | 🔴 |
+28 | 2021.02.13 | Video Speed Controller | 🟢 |
 ___
 
 | Captions - Status |
