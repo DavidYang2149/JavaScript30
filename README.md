@@ -41,7 +41,7 @@ No | Date        | Description            | Status |
 27 | 2021.02.12 | Click and Drag | 🟢 |
 28 | 2021.02.13 | Video Speed Controller | 🟢 |
 29 | 2021.02.14 | Countdown Timer | 🟢 |
-30 | 2021.02.14 | Whack A Mole | 🔴 |
+30 | 2021.02.14 | Whack A Mole | 🟢 |
 ___
 
 | Captions - Status |
